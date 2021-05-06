@@ -1,9 +1,9 @@
-# The code that I try
+# The road towards general AI
 
 | Name                           | Paper                                                        | Code                                            |
 | ------------------------------ | ------------------------------------------------------------ | ----------------------------------------------- |
 | Autoencoder              | [TensorFlow / Keras Autoencoder 自动编码器 图片去噪 异常检测 代码](https://www.cnblogs.com/jins-note/p/13550113.html) | 2021-05-06|
 | 系统学习           | [通过子类化创建新的层和模型](https://www.tensorflow.org/guide/keras/custom_layers_and_models) | Tensorflow |
 |系统学习|[从头编写训练循环](https://tensorflow.google.cn/guide/keras/writing_a_training_loop_from_scratch/)|Tensorflow|
-
+|复现例子|[经典回顾！Github 上打星超过 1 万的可复现顶会论文项目](https://www.leiphone.com/category/ai/iqPh2qOOaWHAqOOY.html)|代码集|
 
