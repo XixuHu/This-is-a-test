@@ -6,4 +6,5 @@
 | 系统学习           | [通过子类化创建新的层和模型](https://www.tensorflow.org/guide/keras/custom_layers_and_models) | Tensorflow |
 |系统学习|[从头编写训练循环](https://tensorflow.google.cn/guide/keras/writing_a_training_loop_from_scratch/)|Tensorflow|
 |复现例子|[经典回顾！Github 上打星超过 1 万的可复现顶会论文项目](https://www.leiphone.com/category/ai/iqPh2qOOaWHAqOOY.html)|代码集|
+|超参调节|[Hyperparameter tuning for machine learning models(文章最后有很多很好的参考链接)](https://www.jeremyjordan.me/hyperparameter-tuning/)|2021-05-10|
 
