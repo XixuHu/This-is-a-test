@@ -8,3 +8,8 @@
 |复现例子|[经典回顾！Github 上打星超过 1 万的可复现顶会论文项目](https://www.leiphone.com/category/ai/iqPh2qOOaWHAqOOY.html)|代码集|
 |超参调节|[Hyperparameter tuning for machine learning models(文章最后有很多很好的参考链接)](https://www.jeremyjordan.me/hyperparameter-tuning/)|2021-05-10|
 
+
+# Causal inference and machine learning
+|Title                                                  |Time      |
+|-------------------------------------------------------|----------|
+|[Estimating individual treatment effect: generalization bounds and algorithms](http://proceedings.mlr.press/v70/shalit17a/shalit17a.pdf)|ICML 2017|
