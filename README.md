@@ -18,4 +18,4 @@
 # 收集的Causal证bounds的教科书
 |Author and Year                             |Title                                                                    |Publisher                          |
 |--------------------------------------------|-------------------------------------------------------------------------|-----------------------------------|
-|A. W. van der Vaart and J. A. Wellner (1996)| Weak Convergence and Empirical Processes|                               |Springer Series in Statistics      |
+|A. W. van der Vaart and J. A. Wellner (1996)| Weak Convergence and Empirical Processes                                |Springer Series in Statistics      |
