@@ -13,3 +13,9 @@
 |Title                                                  |Time      |
 |-------------------------------------------------------|----------|
 |[Estimating individual treatment effect: generalization bounds and algorithms](http://proceedings.mlr.press/v70/shalit17a/shalit17a.pdf)|ICML 2017|
+
+
+# 收集的Causal证bounds的教科书
+|Title                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------|
+|A. W. van der Vaart and J. A. Wellner (1996). Weak Convergence and Empirical Processes, Springer Series in Statistics|
