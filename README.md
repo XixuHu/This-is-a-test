@@ -19,3 +19,4 @@
 |Author and Year                             |Title                                                                    |Publisher                          |
 |--------------------------------------------|-------------------------------------------------------------------------|-----------------------------------|
 |A. W. van der Vaart and J. A. Wellner (1996)| Weak Convergence and Empirical Processes                                |Springer Series in Statistics      |
+|M. Ledoux and M. Talagrand (1991)|Probability in Banach Spaces (Isoperimetry and processes)| Springer-Verlag|         
