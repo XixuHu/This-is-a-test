@@ -20,3 +20,4 @@
 |--------------------------------------------|-------------------------------------------------------------------------|-----------------------------------|
 |A. W. van der Vaart and J. A. Wellner (1996)| **Weak Convergence and Empirical Processes**                               |Springer Series in Statistics      |
 |M. Ledoux and M. Talagrand (1991)|**Probability in Banach Spaces (Isoperimetry and processes)**| Springer-Verlag|         
+|Bodhisattva Sen(May 5, 2021)|[A Gentle Introduction to Empirical Process Theory and Applications](http://www.stat.columbia.edu/~bodhi/Talks/Emp-Proc-Lecture-Notes.pdf)|很好的经验过程入门书|
