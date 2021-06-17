@@ -21,3 +21,7 @@
 |A. W. van der Vaart and J. A. Wellner (1996)| **Weak Convergence and Empirical Processes**                               |Springer Series in Statistics      |
 |M. Ledoux and M. Talagrand (1991)|**Probability in Banach Spaces (Isoperimetry and processes)**| Springer-Verlag|         
 |Bodhisattva Sen (May 5, 2021)|[A Gentle Introduction to Empirical Process Theory and Applications](http://www.stat.columbia.edu/~bodhi/Talks/Emp-Proc-Lecture-Notes.pdf)|很好的经验过程入门书|
+
+
+#Python知识点备份
+|Python时间差处理|[3.12 基本的日期与时间转换](https://python3-cookbook.readthedocs.io/zh_CN/latest/c03/p12_convert_days_to_seconds_and_others.html)|dateutil.relativedelta()|
