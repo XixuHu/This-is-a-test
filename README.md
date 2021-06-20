@@ -27,3 +27,4 @@
 |Theme|URL|Notes|
 |-----------------|----------------------------------------------------|----------------------------------------|
 |Python时间差处理|[3.12 基本的日期与时间转换](https://python3-cookbook.readthedocs.io/zh_CN/latest/c03/p12_convert_days_to_seconds_and_others.html)|dateutil.relativedelta()|
+|html按钮修改样式|[How to set text color in submit button?](https://stackoverflow.com/questions/12471132/how-to-set-text-color-in-submit-button)|看答案2|
