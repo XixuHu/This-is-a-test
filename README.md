@@ -1,3 +1,9 @@
+# Wasserstein 资料收集
+|名称|备注|
+|----------------------------|-------------------------------|
+|[Chap 6: The Wasserstein distances](https://link.springer.com/content/pdf/10.1007%2F978-3-540-71050-9_6.pdf)|Villani的原文，行文很流畅，很好读|
+
+
 # The road towards general AI
 
 | Name                           | Paper                                                        | Code                                            |
@@ -28,3 +34,4 @@
 |-----------------|----------------------------------------------------|----------------------------------------|
 |Python时间差处理|[3.12 基本的日期与时间转换](https://python3-cookbook.readthedocs.io/zh_CN/latest/c03/p12_convert_days_to_seconds_and_others.html)|dateutil.relativedelta()|
 |html按钮修改样式|[How to set text color in submit button?](https://stackoverflow.com/questions/12471132/how-to-set-text-color-in-submit-button)|看答案2|
+
